@@ -3,7 +3,7 @@ import { Widget } from "./components/WIdget";
 function App() {
   return (
     <div className="App">
-      <Widget/>
+      <Widget />
     </div>
   );
 }
